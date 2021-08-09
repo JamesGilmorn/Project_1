@@ -103,7 +103,7 @@ body {
 	letter-spacing: 2.8px;
 	color: rgba(39, 61, 70, 0.6);
 	text-transform: uppercase;
-	opacity: 55%;
+	opacity: 65%;
 }
 
 .heading {
@@ -137,7 +137,7 @@ body {
 	color: rgba(39, 61, 70, 0.8);
 	max-width: 780px;
 	margin: 0 auto;
-	opacity: 80%;
+	opacity: 75%;
 }
 
 .text p {
